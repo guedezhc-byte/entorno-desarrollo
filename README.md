@@ -8,3 +8,5 @@
 -Prettier-Code Formatter
 -Auto Auto Rename Tag
 -Material Icon Theme
+-Otras
+-y otras
